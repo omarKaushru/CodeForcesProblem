@@ -1,6 +1,6 @@
-#include <iostream>
-using namespace std;
+//Accepted
 
+#include <iostream>
 using namespace std;
 
 int main()
